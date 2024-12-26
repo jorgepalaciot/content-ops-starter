@@ -24,7 +24,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Publicaciones",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -42,28 +42,28 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Servicios",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Optimización de Operaciones",
+                    "url": "/Optimizar",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Análisis de Datos",
+                    "url": "/Análisis",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Implementación de Lean",
+                    "url": "/ImplementarLean",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -72,6 +72,17 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Button",
+            "label": "Contacto",
+            "altText": "Contactame",
+            "url": "/contacto",
+            "showIcon": false,
+            "icon": "",
+            "iconPosition": "left",
+            "style": "primary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [
