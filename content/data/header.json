@@ -55,7 +55,7 @@
                 },
                 {
                     "label": "Análisis de Datos",
-                    "url": "/",
+                    "url": "/Análisis",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
