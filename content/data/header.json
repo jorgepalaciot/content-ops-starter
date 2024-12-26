@@ -68,6 +68,17 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
+                },
+                {
+                    "type": "Link",
+                    "label": "Diseño y Gestión de Operaciones",
+                    "altText": "",
+                    "url": "/gestionoperaciones",
+                    "showIcon": false,
+                    "icon": "github",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
