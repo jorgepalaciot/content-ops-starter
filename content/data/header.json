@@ -63,7 +63,7 @@
                 },
                 {
                     "label": "Implementación de Lean",
-                    "url": "/",
+                    "url": "/ImplementarLean",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
