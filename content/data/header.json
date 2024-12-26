@@ -2,7 +2,7 @@
     "logo": {
         "type": "ImageBlock",
         "url": "/images/Sin título-2.png",
-        "altText": "<img src=\"logo.png\" alt=\"Logo de la empresa Lean Edge Consulting que analiza y optimiza procesos industriales\"",
+        "altText": "",
         "elementId": "",
         "styles": {
             "self": {
