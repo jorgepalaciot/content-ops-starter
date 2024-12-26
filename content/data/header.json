@@ -76,7 +76,7 @@
         {
             "type": "Button",
             "label": "Contacto",
-            "altText": "",
+            "altText": "Contactame",
             "url": "/contacto",
             "showIcon": false,
             "icon": "arrowRight",
