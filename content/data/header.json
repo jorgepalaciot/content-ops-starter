@@ -79,7 +79,7 @@
             "altText": "Contactame",
             "url": "/contacto",
             "showIcon": false,
-            "icon": "arrowLeft",
+            "icon": "",
             "iconPosition": "left",
             "style": "primary",
             "elementId": ""
