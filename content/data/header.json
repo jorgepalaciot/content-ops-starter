@@ -75,7 +75,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "Contacto",
             "altText": "",
             "url": "/contacto",
             "showIcon": false,
