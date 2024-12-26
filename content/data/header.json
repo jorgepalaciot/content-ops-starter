@@ -1,18 +1,23 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "type": "ImageBlock",
+        "altText": "",
+        "elementId": "",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "borderRadius": "medium",
+                "padding": [
+                    "pt-0",
+                    "pb-0"
+                ]
             }
         },
-        "type": "ImageBlock"
+        "url": "/images/iiiiiiiiiiii.png"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Inicio",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

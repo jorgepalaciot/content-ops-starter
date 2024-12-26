@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/DISEÑO LOGO WEB para pie.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
     "text": "A description of your brand",
     "primaryLinks": {
-        "title": "Product",
+        "title": "SERVICIOS",
         "links": [
             {
                 "label": "Features",
