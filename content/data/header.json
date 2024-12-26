@@ -1,7 +1,7 @@
 {
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/DISEÑO LOGO WEB.png",
+        "url": "/images/DISEÑO LOGO WEB.svg",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
