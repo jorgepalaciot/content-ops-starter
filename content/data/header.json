@@ -73,7 +73,7 @@
                     "type": "Link",
                     "label": "Diseño y Gestión de Operaciones",
                     "altText": "",
-                    "url": "/",
+                    "url": "/gestionoperaciones",
                     "showIcon": true,
                     "icon": "github",
                     "iconPosition": "left",
