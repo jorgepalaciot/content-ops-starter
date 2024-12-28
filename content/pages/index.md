@@ -34,7 +34,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/82e02684-794c-4ac0-8eda-bc848b98d199.jpeg
+      url: /images/3 pizarras a.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
