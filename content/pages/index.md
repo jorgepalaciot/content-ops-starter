@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Empiezan hoy
+      label: Empieza hoy
       color: text-primary
       type: Badge
     elementId: ''
