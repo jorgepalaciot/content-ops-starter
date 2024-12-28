@@ -7,7 +7,7 @@ sections:
       text: Optimiza tu empresa
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Haz que cada Proceso en tu negocio sea mas agile y rentable '
     text: >+
       Transforma tu negocio con soluciones personalizadas de optimización.
       Reducción de costos, mejora de  procesos y mejor rentabilidad de tu
