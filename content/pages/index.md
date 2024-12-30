@@ -61,17 +61,13 @@ sections:
         title: Desarrollo de Planes de Negocio y Estudios de Viabilidad
         tagline: ''
         subtitle: ''
-        text: >
-          ¿Necesita un plan de negocio sólido y profesional? El servicio de
-          Desarrollo de Planes de Negocio y Estudios de Viabilidad le ayudará a
-          transformar su idea en un proyecto viable y rentable. Mediante un
-          análisis exhaustivo del mercado, proyecciones financieras detalladas y
-          evaluación de riesgos, desarrollamos planes estratégicos que le
-          brindarán una hoja de ruta clara para el éxito de su negocio. Ya sea
-          que esté iniciando un nuevo emprendimiento o expandiendo su empresa
-          actual,se le proporcionará las herramientas y estrategias necesarias
-          para tomar decisiones informadas y maximizar sus posibilidades de
-          éxito.
+        text: >+
+
+          Transformamos sus ideas de negocio en proyectos viables y rentables.
+          Se reealiza un análisis completo de mercado, proyecciones financieras
+          y evaluación de riesgos para crear estrategias efectivas que guiarán
+          el éxito de su empresa.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
