@@ -33,7 +33,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Business Consulting
+        title: Mejora la rentabilidad
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
