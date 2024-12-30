@@ -36,10 +36,10 @@ sections:
         title: Mejora la rentabilidad
         tagline: Feature 2
         subtitle: Reducción de costos
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Aplicar la mejora continua permite mejorar la calidad, reducir costos
+          y aprovechar mejor los recursos, lo que se traduce en aumento de la
+          rentabilidad.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
