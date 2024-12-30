@@ -17,8 +17,9 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
-          Mejora de procesos productivos y administrativos para reducir  costos,
-          eliminar desperdicios y aumentar la productividad.
+          Evaluación completa de los procesos operativos y la cadena de valor
+          para identificar y eliminar ineficiencias, reducir costos y maximizar
+          la productividad.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
