@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Procesos mas eficientes
     text: >+
-      Transforma tu negocio con soluciones personalizadas de optimización.
-      Reducción de costos, mejora de  procesos y mejor rentabilidad de tu
-      empresa mediante la implementación de metodologías Lean y herramientas
-      práctivas de gestión.
+      Transforma tu negocio mejorando sus procesos, reduciendo costos, sin
+      reducir la calidad y además obteniendo mayor rentabilidad para tu
+      empresalementación de metodologías Lean y herramientas práctivas de
+      gestión.
 
     actions:
       - label: Get started
