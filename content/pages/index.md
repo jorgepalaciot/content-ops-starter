@@ -34,7 +34,7 @@ sections:
       - type: FeaturedItem
         title: Gestión de Proyectos de Mejora Continua
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Liderazgo y ejecución de proyectos enfocados en la reducción de
           tiempos de ciclo, optimización de inventarios o implementación de
