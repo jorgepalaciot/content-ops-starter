@@ -61,8 +61,17 @@ sections:
         title: Desarrollo de Planes de Negocio y Estudios de Viabilidad
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          ¿Necesita un plan de negocio sólido y profesional? El servicio de
+          Desarrollo de Planes de Negocio y Estudios de Viabilidad le ayudará a
+          transformar su idea en un proyecto viable y rentable. Mediante un
+          análisis exhaustivo del mercado, proyecciones financieras detalladas y
+          evaluación de riesgos, desarrollamos planes estratégicos que le
+          brindarán una hoja de ruta clara para el éxito de su negocio. Ya sea
+          que esté iniciando un nuevo emprendimiento o expandiendo su empresa
+          actual,se le proporcionará las herramientas y estrategias necesarias
+          para tomar decisiones informadas y maximizar sus posibilidades de
+          éxito.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
