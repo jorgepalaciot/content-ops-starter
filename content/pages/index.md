@@ -14,7 +14,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/3 pizarras a.png
           altText: Featured item
           styles:
             self:
