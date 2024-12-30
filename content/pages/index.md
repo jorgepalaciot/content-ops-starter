@@ -129,7 +129,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/3 pizarras a.png
+      url: /images/PORTADA LEAN THINKING.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
