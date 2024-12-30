@@ -58,7 +58,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Desarrollo de Planes de Negocio y Estudios de Viabilidad
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
