@@ -2,18 +2,84 @@
 title: Home
 slug: /
 sections:
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Acelera el Rendimiento de tu Negocio
+        tagline: Feature 1
+        subtitle: Procesos más eficientes
+        text: >+
+          Aprende como podemos ayudarte a mejorar el rendimiento de tu negocio
+          utilizando técnicas Lean Kaizen
+
+        image:
+          type: ImageBlock
+          url: /images/3 pizarras a.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Mejora la rentabilidad
+        tagline: Feature 2
+        subtitle: Reducción de costos
+        text: >
+          Aplicar la mejora continua permite mejorar la calidad, reducir costos
+          y aprovechar mejor los recursos, lo que se traduce en aumento de la
+          rentabilidad.
+        image:
+          type: ImageBlock
+          url: /images/82e02684-794c-4ac0-8eda-bc848b98d199.jpeg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pb-5
+          - pt-5
+      subtitle:
+        textAlign: center
   - type: GenericSection
     title:
-      text: Optimiza tu empresa
+      text: Acelera el rendimiento de tu negocio
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >+
-      Transforma tu negocio con soluciones personalizadas de optimización.
-      Reducción de costos, mejora de  procesos y mejor rentabilidad de tu
-      empresa mediante la implementación de metodologías Lean y herramientas
-      práctivas de gestión.
-
+    subtitle: Procesos mas eficientes
+    text: >
+      Aprende como podemos ayudarte a mejorar el rendimiento de tu negocio
+      utilizando técnicas Lean Kaizen
     actions:
       - label: Get started
         altText: ''
@@ -39,7 +105,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Empieza hoy
       color: text-primary
       type: Badge
     elementId: ''
@@ -49,10 +115,126 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-16
+          - pt-5
           - pl-16
-          - pb-16
+          - pb-5
           - pr-16
+  - type: PricingSection
+    title:
+      type: TitleBlock
+      text: Flexible Pricing
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: This is the subtitle for the pricing section
+    plans:
+      - type: PricingPlan
+        title: Developers
+        price: Free
+        details: No credit card required
+        description: >-
+          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
+          accusantium doloremque.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Pricing plan 1
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Professional
+        price: $99
+        details: per month
+        description: >-
+          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
+          accusantium doloremque.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Pricing plan 2
+        actions:
+          - type: Button
+            label: Try for free
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+      - type: PricingPlan
+        title: Enterprise
+        price: Custom
+        details: per month
+        description: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam.
+        features:
+          - Feature one
+          - Feature two
+          - Feature three
+          - Feature four
+          - Feature five
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Pricing plan 3
+        actions:
+          - type: Button
+            label: Contact us
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pb-5
+          - pt-5
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -92,7 +274,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 'Excelencia Operacional: Lean, Kaizen'
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
