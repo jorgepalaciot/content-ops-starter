@@ -16,8 +16,9 @@ sections:
         title: Optimización de Procesos
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >
+          Mejora de procesos productivos y administrativos para reducir  costos,
+          eliminar desperdicios y aumentar la productividad.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
