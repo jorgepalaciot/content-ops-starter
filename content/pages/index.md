@@ -8,12 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Procesos mas eficientes
-    text: >+
-      Transforma tu negocio mejorando sus procesos, reduciendo costos, sin
-      reducir la calidad y además obteniendo mayor rentabilidad para tu
-      empresalementación de metodologías Lean y herramientas práctivas de
-      gestión.
-
+    text: >
+      Aprende como podemos ayudarte a mejorar el rendimiento de tu negocio
+      utilizando técnicas Lean Kaizen
     actions:
       - label: Get started
         altText: ''
