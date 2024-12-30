@@ -42,7 +42,7 @@ sections:
           rentabilidad.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/82e02684-794c-4ac0-8eda-bc848b98d199.jpeg
           altText: Business consulting
           elementId: ''
           styles:
