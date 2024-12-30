@@ -39,7 +39,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Gestión de Proyectos de Mejora Continua
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
