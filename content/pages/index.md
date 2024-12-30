@@ -2,19 +2,166 @@
 title: Home
 slug: /
 sections:
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: List of features here
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    subtitle: Featured items section subtitle
+    items:
+      - type: FeaturedItem
+        title: Optimización Integral de procesos y cadena de Valor
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: >
+          Evaluación completa de los procesos operativos y la cadena de valor
+          para identificar y eliminar ineficiencias, reducir costos y maximizar
+          la productividad.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Gestión de Proyectos de Mejora Continua
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: >
+          Liderazgo y ejecución de proyectos enfocados en la reducción de
+          tiempos de ciclo, optimización de inventarios o implementación de
+          nuevas tecnologías.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: Feature Item Three
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Learn from the tutorial and build your first awesome Netlify site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-8
+          - pb-16
+          - pr-8
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Acelera el Rendimiento de tu Negocio
+        title: Social Media Management
         tagline: Feature 1
-        subtitle: Procesos más eficientes
-        text: >+
-          Aprende como podemos ayudarte a mejorar el rendimiento de tu negocio
-          utilizando técnicas Lean Kaizen
-
+        subtitle: Increase your reach
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
-          url: /images/3 pizarras a.png
+          url: /images/img-placeholder.svg
           altText: Featured item
           styles:
             self:
@@ -33,16 +180,16 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Mejora la rentabilidad
+        title: Business Consulting
         tagline: Feature 2
-        subtitle: Reducción de costos
-        text: >
-          Aplicar la mejora continua permite mejorar la calidad, reducir costos
-          y aprovechar mejor los recursos, lo que se traduce en aumento de la
-          rentabilidad.
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
-          url: /images/82e02684-794c-4ac0-8eda-bc848b98d199.jpeg
+          url: /images/img-placeholder.svg
           altText: Business consulting
           elementId: ''
           styles:
@@ -61,14 +208,43 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: tabs-nav
+      - type: FeaturedItem
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
         padding:
-          - pb-5
-          - pt-5
+          - pb-4
+          - pt-4
       subtitle:
         textAlign: center
   - type: GenericSection
@@ -100,7 +276,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/3 pizarras a.png
+      url: /images/PORTADA LEAN THINKING.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
