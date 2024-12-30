@@ -3,22 +3,25 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
+    subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: Acelera el Rendimiento de tu Negocio
-        tagline: Feature 1
-        subtitle: Procesos más eficientes
-        text: >+
-          Aprende como podemos ayudarte a mejorar el rendimiento de tu negocio
-          utilizando técnicas Lean Kaizen
-
+        title: >-
+          “A designer knows he has achieved perfection not when there is nothing
+          left to add, but when there is nothing left to take away.”
+        tagline: Testimonial 1
+        subtitle: 'Maria Walters, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
-          url: /images/3 pizarras a.png
-          altText: Featured item
+          url: /images/person-placeholder-light.png
+          altText: Maria Walters
           styles:
             self:
-              borderRadius: medium
+              borderRadius: full
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -33,59 +36,22 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Mejora la rentabilidad
-        tagline: Feature 2
-        subtitle: Reducción de costos
-        text: >
-          Aplicar la mejora continua permite mejorar la calidad, reducir costos
-          y aprovechar mejor los recursos, lo que se traduce en aumento de la
-          rentabilidad.
-        image:
-          type: ImageBlock
-          url: /images/82e02684-794c-4ac0-8eda-bc848b98d199.jpeg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions:
-          - type: Button
-            label: Get started
-            altText: ''
-            url: /
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            elementId: ''
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: Business Consulting
-        tagline: Feature 2
-        subtitle: Be in good company
+        title: >-
+          “Quote from some important person goes right here. I love using
+          Netlify.”
+        tagline: Testimonial 2
+        subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Business consulting
-          elementId: ''
+          url: /images/img-placeholder-dark.png
+          altText: Jane Doe
           styles:
             self:
-              borderRadius: medium
+              borderRadius: full
         actions: []
         colors: bg-dark-fg-light
         styles:
@@ -99,20 +65,13 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: next-prev-nav-multiple
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
-        padding:
-          - pb-5
-          - pt-5
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
   - type: GenericSection
     title:
       text: Acelera el rendimiento de tu negocio
