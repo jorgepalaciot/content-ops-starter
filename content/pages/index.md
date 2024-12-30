@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: Optimización Integral de procesos y cadena de Valor
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           Evaluación completa de los procesos operativos y la cadena de valor
           para identificar y eliminar ineficiencias, reducir costos y maximizar
