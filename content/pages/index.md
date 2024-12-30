@@ -59,7 +59,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Desarrollo de Planes de Negocio y Estudios de Viabilidad
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
