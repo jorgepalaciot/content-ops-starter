@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: FeaturedItemsSection
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Optimización Integral de procesos y cadena de Valor
