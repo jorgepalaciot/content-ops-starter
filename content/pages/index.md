@@ -3,19 +3,12 @@ title: Home
 slug: /
 sections:
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Optimización Integral de procesos y cadena de Valor
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: >
           Evaluación completa de los procesos operativos y la cadena de valor
           para identificar y eliminar ineficiencias, reducir costos y maximizar
@@ -40,8 +33,8 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Gestión de Proyectos de Mejora Continua
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: >
           Liderazgo y ejecución de proyectos enfocados en la reducción de
           tiempos de ciclo, optimización de inventarios o implementación de
@@ -65,63 +58,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        title: Desarrollo de Planes de Negocio y Estudios de Viabilidad
+        tagline: ''
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
           altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -142,9 +87,9 @@ sections:
     styles:
       self:
         padding:
-          - pt-16
+          - pt-4
           - pl-8
-          - pb-16
+          - pb-4
           - pr-8
         justifyContent: center
       subtitle:
@@ -548,9 +493,13 @@ sections:
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
@@ -1109,4 +1058,5 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
