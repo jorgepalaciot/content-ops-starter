@@ -60,7 +60,7 @@ sections:
       - type: FeaturedItem
         title: Desarrollo de Planes de Negocio y Estudios de Viabilidad
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
