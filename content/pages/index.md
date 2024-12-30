@@ -8,10 +8,10 @@ sections:
         title: Acelera el Rendimiento de tu Negocio
         tagline: Feature 1
         subtitle: Procesos más eficientes
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Aprende como podemos ayudarte a mejorar el rendimiento de tu negocio
+          utilizando técnicas Lean Kaizen
+
         image:
           type: ImageBlock
           url: /images/3 pizarras a.png
