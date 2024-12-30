@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Optimiza tu empresa
+      text: Acelera el rendimiento de tu negocio
       color: text-dark
       type: TitleBlock
     subtitle: Procesos mas eficientes
