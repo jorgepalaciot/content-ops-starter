@@ -109,6 +109,10 @@ sections:
           - pt-5
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: GenericSection
     title:
       text: Acelera el rendimiento de tu negocio
