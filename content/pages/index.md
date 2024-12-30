@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Acelera el Rendimiento de tu Negocio
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: Procesos más eficientes
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
