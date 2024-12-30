@@ -164,6 +164,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-4
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
