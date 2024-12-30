@@ -13,7 +13,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Optimización de Procesos
+        title: Optimización Integral de procesos y cadena de Valor
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
