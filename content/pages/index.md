@@ -42,8 +42,10 @@ sections:
         title: Gestión de Proyectos de Mejora Continua
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >
+          Liderazgo y ejecución de proyectos enfocados en la reducción de
+          tiempos de ciclo, optimización de inventarios o implementación de
+          nuevas tecnologías.
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
