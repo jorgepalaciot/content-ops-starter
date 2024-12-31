@@ -9,6 +9,10 @@ sections:
         url: /images/DISEÑO LOGO WEB.png
         altText: Wellster logo
         elementId: ''
+        styles:
+          self:
+            padding:
+              - pb-4
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
