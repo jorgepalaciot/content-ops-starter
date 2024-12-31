@@ -25,7 +25,7 @@ sections:
             label: Get started
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowUp
             iconPosition: right
             style: secondary
