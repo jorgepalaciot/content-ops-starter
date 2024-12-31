@@ -61,8 +61,13 @@ sections:
         title: Desarrollo de Planes de Negocio y Estudios de Viabilidad
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+
+          Transformamos sus ideas de negocio en proyectos viables y rentables.
+          Se reealiza un análisis completo de mercado, proyecciones financieras
+          y evaluación de riesgos para crear estrategias efectivas que guiarán
+          el éxito de su empresa.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
