@@ -22,7 +22,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Button
-            label: Get started
+            label: Más Información
             altText: ''
             url: /
             showIcon: true
