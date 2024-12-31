@@ -15,7 +15,7 @@ sections:
           la productividad.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/3 pizarras a.png
           altText: Placeholder image
           styles:
             self:
