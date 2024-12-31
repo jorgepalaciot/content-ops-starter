@@ -50,7 +50,7 @@ sections:
           nuevas tecnologías.
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/82e02684-794c-4ac0-8eda-bc848b98d199.jpeg
           altText: Placeholder image
           styles:
             self:
