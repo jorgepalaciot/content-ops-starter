@@ -14,6 +14,7 @@ sections:
             padding:
               - pb-0
               - pt-0
+            borderRadius: x-small
       - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
