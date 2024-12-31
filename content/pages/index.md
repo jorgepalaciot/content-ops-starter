@@ -6,10 +6,6 @@ sections:
     subtitle: Our customers
     images:
       - type: ImageBlock
-        url: /images/DISEÑO LOGO WEB.png
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/wellster-logo.svg
         altText: Wellster logo
         elementId: ''
