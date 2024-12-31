@@ -26,7 +26,7 @@ sections:
             altText: ''
             url: /
             showIcon: false
-            icon: arrowRight
+            icon: arrowUp
             iconPosition: right
             style: secondary
             elementId: ''
