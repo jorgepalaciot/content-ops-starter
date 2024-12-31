@@ -20,7 +20,16 @@ sections:
           styles:
             self:
               borderRadius: x-large
-        actions: []
+        actions:
+          - type: Button
+            label: Más Información
+            altText: ''
+            url: /
+            showIcon: true
+            icon: arrowUp
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-light-fg-dark
         styles:
           self:
